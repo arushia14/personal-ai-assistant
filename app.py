@@ -18,8 +18,9 @@ st.markdown("""
     <style>
         .user-message {
             text-align: right;
-            background-color: #86cdf9;
             padding: 10px;
+            outline: 1px solid #82b2ff;
+            
             border-radius: 10px;
             max-width: 75%;
             margin-left: auto;
@@ -27,8 +28,8 @@ st.markdown("""
         }
         .bot-message {
             text-align: left;
-            background-color: #E5E5EA;
             padding: 10px;
+            outline: 1px solid #990383;
             border-radius: 10px;
             max-width: 75%;
             margin-right: auto;
