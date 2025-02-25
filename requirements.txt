@@ -1,7 +1,7 @@
 streamlit
 langchain
 pypdf
-openai
+openai==0.28
 faiss-cpu
 tiktoken
 python-dotenv
