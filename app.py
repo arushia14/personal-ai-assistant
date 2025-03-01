@@ -10,6 +10,8 @@ st.markdown("""
 st.markdown("""
     <p style="text-align: center; font-size:18px;">
         You can ask me about Arushi's professional background, experience, and achievements.
+        Some example prompts can be-”what are Arushi’s qualifications”, “what work experience does she have”, “what is her skillset”, 
+        “How can I contact her”, etc.
     </p>
 """, unsafe_allow_html=True)
 
